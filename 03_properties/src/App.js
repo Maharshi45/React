@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 
 // Class component
 /* class OSComponent extends React.Component {
